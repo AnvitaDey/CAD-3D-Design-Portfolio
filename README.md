@@ -34,7 +34,6 @@ Each folder contains:
 
 * 📸 Renders / images of the design
 * 🧩 STL files for 3D printing
-* 📝 Short description of the design
 
 ---
 
